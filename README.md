@@ -13,42 +13,42 @@ Creating world-class Gen AI systems that seem like black magic from Buenos Aires
 
 ---
 
-## About me
+## Sobre mí
 
-I started in tech at 17 as a Jr DevOps Engineer. By 20, I had shipped production infrastructure at Banco Macro (one of Argentina's largest banks), built LLM-powered products at Notimation, and led Generative AI projects at CFOTech — COBOL documentors, HR report generators, QA automation systems. All while founding [Iridia Labs](https://iridia-labs.com).
+Arranqué en tech a los 17 como Jr DevOps. A los 20 ya había desplegado infraestructura de producción en Banco Macro (uno de los bancos más grandes de Argentina), construido productos con LLMs en Notimation, y liderado proyectos de IA Generativa en CFOTech — documentadores de código COBOL, generadores de reportes de RRHH, automatización de QA. Todo mientras fundaba [Iridia Labs](https://iridia-labs.com).
 
-That path gave me three convictions Iridia is built on:
+Ese camino me dejó tres convicciones sobre las que está construida Iridia:
 
-- **Clarity before code** — If the problem isn't well understood, no solution survives contact with reality.
-- **Validate early** — It's better to be wrong in week 2 than in month 6, already in production.
-- **Ship real products** — No PowerPoints, no pilots that never scale. Code that runs in the real world.
+- **Claridad antes de código** — Si el problema no está bien entendido, ninguna solución sobrevive el contacto con la realidad.
+- **Validar temprano** — Es mejor estar equivocado en la semana 2 que en el mes 6, ya en producción.
+- **Shipper productos reales** — Nada de PowerPoints ni pilotos que nunca escalan. Código que corre en el mundo real.
 
-> *"Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke*
-
----
-
-## What we build at Iridia Labs
-
-Iridia Labs is a product lab that closes the gap between prototype and production. We fuse **Gen AI**, **DevOps**, and **Software Engineering** to build systems that not only survive the real world — they feel like magic.
-
-| What | How |
-|------|-----|
-| AI Agents | Autonomous assistants that don't just answer — they act |
-| RAG Systems | Enterprise knowledge, always accessible in natural language |
-| Text-to-SQL | Business intelligence without needing SQL expertise |
-| Voice Agents | Phone conversations handled at scale, like a human would |
-| Document Intelligence | Invoices, contracts, forms → structured data, automatically |
-| Agentic Platforms | From idea to production in 2–12 weeks |
-
-We work with software companies across 7 countries. Our goal: put our clients in the **5% of AI projects that actually work and generate real ROI**.
+> *"Cualquier tecnología suficientemente avanzada es indistinguible de la magia." — Arthur C. Clarke*
 
 ---
 
-## Tech & Tools
+## Qué construimos en Iridia Labs
+
+Iridia Labs es un laboratorio de producto diseñado para cerrar la brecha entre el prototipo y producción. Fusionamos **Gen AI**, **DevOps** e **Ingeniería de Software** para construir sistemas que no solo sobreviven en el mundo real — parecen magia.
+
+| Qué | Cómo |
+|-----|------|
+| Agentes de AI | Asistentes autónomos que no solo responden — ejecutan acciones |
+| Sistemas RAG | El conocimiento empresarial, siempre accesible en lenguaje natural |
+| Text-to-SQL | Inteligencia de negocio sin necesitar saber SQL |
+| Agentes de Voz | Llamadas telefónicas manejadas a escala, como lo haría un humano |
+| Extracción de Documentos | Facturas, contratos, formularios → datos estructurados, automáticamente |
+| Plataformas Agénticas | De la idea a producción en 2–12 semanas |
+
+Trabajamos con empresas de software en 7 países. Nuestro objetivo: meter a nuestros clientes en el **5% de los proyectos de IA que realmente funcionan y generan ROI real**.
+
+---
+
+## Tech & Herramientas
 
 **AI & LLMs**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat&logoColor=white)
@@ -69,23 +69,33 @@ We work with software companies across 7 countries. Our goal: put our clients in
 
 ---
 
-## Journey
+## Trayectoria
 
-```
-Jr DevOps (2022) → LangChain & LLMOps (2023) → DevOps @ Banco Macro (2023–24) → Sr AI Engineer @ CFOTech (2024–25) → CEO @ Iridia Labs (2024–present)
+```mermaid
+graph LR
+    A["☁️ Jr DevOps\n2022"] --> B["🤖 LangChain & LLMOps\n2023"]
+    B --> C["🏦 DevOps @ Banco Macro\n2023–24"]
+    C --> D["⚡ Sr AI Engineer @ CFOTech\n2024–25"]
+    D --> E["🧬 CEO @ Iridia Labs\n2024–present"]
+
+    style A fill:#1e293b,stroke:#475569,color:#94a3b8
+    style B fill:#1e293b,stroke:#475569,color:#94a3b8
+    style C fill:#1e293b,stroke:#475569,color:#94a3b8
+    style D fill:#1e293b,stroke:#475569,color:#94a3b8
+    style E fill:#6b21a8,stroke:#7c3aed,color:#e9d5ff
 ```
 
 ---
 
-## How I think
+## Cómo pienso
 
-- The best AI systems don't replace humans — they amplify them.
-- Technical depth is not the goal, it's the constraint that makes the goal possible.
-- 95% of AI projects fail not because of the technology, but because of unclear vision, unvalidated assumptions, and zero real-world testing.
-- Iteration beats perfection. Always.
+- Los mejores sistemas de IA no reemplazan humanos — los amplifican.
+- La profundidad técnica no es el objetivo, es la limitación que hace posible el objetivo.
+- El 95% de los proyectos de IA fracasan no por la tecnología, sino por falta de visión, supuestos no validados y cero testing en el mundo real.
+- La iteración le gana a la perfección. Siempre.
 
 ---
 
 <div align="center">
-  <sub>Building from Buenos Aires. Shipping to the world.</sub>
+  <sub>Construyendo desde Buenos Aires. Shippeando al mundo.</sub>
 </div>
